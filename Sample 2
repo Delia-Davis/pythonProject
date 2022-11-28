@@ -1,0 +1,6 @@
+A = int(input("Enter number of days in a month:"))
+B = int(input(""))
+C = 60.0
+D = 60.0
+E= A*B*C*D
+print(E)

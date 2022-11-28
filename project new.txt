@@ -1,0 +1,24 @@
+Project (40 points)
+
+Your group (max size 3) has tasked to develop a project based using python programming. You are requested to some research and come up with good project definition (which cover at least 60% of our subject) by 2nd November 2022. 
+
+You are required to take approval before you start working on the project by presenting following thing:
+* Short abstract
+* Software/hardware use for project implementation
+* Tentative project plan using Gantt chart in excel (https://www.youtube.com/watch?v=HfAOkXt5V_8&t=73s)
+
+Information and materials:
+
+? You may use information from any source, however, remember that just because there is a lot of information on the internet, does not mean that it is valuable.
+? Try to use sources such as: credible industry sources found online, library resources, etc. You are becoming the class experts on your assigned type of media, so make sure your information is credible.
+
+Required documents for submission:
+? Project report (5 points)
+? Presentation ppt (5 points)
+? Python coding (30 points)
+
+Due Date:
+
+? Upload all documents up to 5th December 2022
+
+Now the file has more content!Now the file has more content!Now the file has more content!
